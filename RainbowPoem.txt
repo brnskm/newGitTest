@@ -5,3 +5,8 @@ Green
 Blue
 Navy
 Purple
+Driver
+Wood
+Iron
+Wedge
+Putter
