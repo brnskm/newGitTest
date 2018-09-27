@@ -2,3 +2,6 @@ Red
 Orange
 Yello
 Green
+Blue
+Navy
+Purple
